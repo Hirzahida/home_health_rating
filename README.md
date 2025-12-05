@@ -53,4 +53,4 @@ The main findings from the analysis are summarized in the Medium post available 
 ## Licensing, Authors, Acknowledgements
 
 This dataset used in this analysis is publicly available [here](	https://data.cms.gov/provider-data/dataset/tee5-ixt5). It was published by Centers for Medicare & Medicaid Services (CMS) on October 22, 2025.  
-Portions of the code were adapted from classroom notes and exercises, with some ideas inspired by Copilot suggestions, then refined to meet the project requirements.
+Portions of the code were adapted from classroom notes and exercises, with some ideas inspired by AI suggestions, then refined to meet the project requirements.
