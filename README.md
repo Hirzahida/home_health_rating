@@ -27,8 +27,6 @@ The following files are provided to support the analysis:
 2.  Linux/Unix Terminal
     - Create a Python environment with pandas, scikit-learn, and matplotlib
     - Run the refactored script:
-
-        *bash*
         python HH_rating.py
 
 3.  Using a Different Dataset
