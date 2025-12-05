@@ -8,9 +8,6 @@ This project focuses on analyzing state?level home care data to identify the key
 2.  What are the key factors within patient improvement metrics that most strongly influence star ratings.
 3.  If flu shot compliance is increased by 10%, what impact would that have on star ratings, and in which states should we prioritize this initiative?
 
-## Installation
-The code can be opened in a Jupyter Notebook and requires Python 3.3.
-
 ## File Descriptions
 
 The following files are provided to support the analysis:
@@ -20,7 +17,7 @@ The following files are provided to support the analysis:
 3.  HH_rating.ipynb – A Jupyter Notebook file containing the complete analysis workflow described in CRISP-DM, including data preparation and validation, model development, and evaluation. It can be opened in Jupyter Notebook and requires Python 3.3. 
 4.  HH_rating.py – An executable Python script containing the same analysis code.
 
-## Quick Start
+## Quick Start/ Execution
 
 1.  Jupyter Notebook
     - Make sure HH_State_Oct2025.csv is in the same directory as HH_rating.py
@@ -41,13 +38,13 @@ The following files are provided to support the analysis:
         flu_col="How often the home health team determined whether patients received a flu sh
 
 4.  Expected Outputs
-   -  Data loading confirmation
-   -  Basic exploration (columns, data types, missing values, summary stats)
-   -  Histogram plots for data exploration
-   -  Model training results (MSE and R²)
-   -  Top 10 feature importance bar chart
-   -  What-if analysis results with histogram
-   -  Top 5 states with biggest improvement
+    - Data loading confirmation
+    - Basic exploration (columns, data types, missing values, summary stats)
+    - Histogram plots for data exploration
+    - Model training results (MSE and R²)
+    - Top 10 feature importance bar chart
+    - What-if analysis results with histogram
+    - Top 5 states with biggest improvement
 
 ## Results/Discussions
 
